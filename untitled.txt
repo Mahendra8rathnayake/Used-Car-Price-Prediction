@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Data files (don’t push large CSVs to GitHub)
+*.csv
+*.xlsx
+*.xls
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
